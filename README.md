@@ -1,5 +1,5 @@
 # Vaim-sms-gui
-<img src="vaim-sms.png"><br>
+<img src="vaim-sms-gui.png "><br>
 
 
 - What is Vaim-sms-gui ?
